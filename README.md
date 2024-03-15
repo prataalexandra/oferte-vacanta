@@ -1,7 +1,5 @@
 Welcome to the Tourism Agency Management System, a C++ application designed to manage a list of tourist offers. This application utilizes a layered architecture, QT framework for the user interface, and implements an observer pattern to view real-time changes.
 
-Tourist Offer Management:
-
 Offer Attributes: 
 
 Each offer includes attributes such as name, destination, type, and price.
